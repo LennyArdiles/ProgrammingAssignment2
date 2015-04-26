@@ -1,8 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
-
+## the makeCacheMatrix is a function that takes a matrix as a parameter 
+# and has 4 functions within it to get or set the matrix
+# and to set the value of the inverse matrix or to get the inverse matrix after it is set
 makeCacheMatrix <- function(x = matrix()) 
 {
     #myinverse is declared to hold the inverse matrix
